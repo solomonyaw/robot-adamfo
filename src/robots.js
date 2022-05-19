@@ -68,5 +68,20 @@ export const robots = [
     username: 'Gibson',
     email: 'gibson@gibsongh.com',
     country: 'Ghana'
+  },
+  {
+    id: 10,
+    name: 'Foster Asante',
+    username: 'Rony',
+    email: 'ronyfoster@gmail.com',
+    country: 'Italy'
+  },
+
+  {
+    id: 11,
+    name: 'Ode Wale',
+    username: 'Wale',
+    email: 'Odewale@gmail.com',
+    country: 'Nigeria '
   }
 ];
